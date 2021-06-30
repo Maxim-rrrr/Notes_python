@@ -1,0 +1,3 @@
+config = {
+    'mongo_connect': ''
+}
